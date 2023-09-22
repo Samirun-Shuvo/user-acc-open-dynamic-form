@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "S.M. Khalid Mahmud",
+    "town": "Motijheel",
+    "city": "Dhaka"
+  },
+  {
+    "id": 2,
+    "name": "Md. Mehedi Hasan",
+    "town": "Uttora",
+    "city": "Dhaka"
+  },
+  {
+    "id": 3,
+    "name": "Rasel Ahmed",
+    "town": "Khilkhet",
+    "city": "Dhaka"
+  },
+  {
+    "id": 4,
+    "name": "Arif Hossain",
+    "town": "Natore",
+    "city": "Rajshahi"
+  }
+]
